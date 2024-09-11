@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning project management.
 - 💞️ I’m looking to collaborate on photography,video editing and coding.
 - 📫 How to reach meon email britonsany@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:him
+- ⚡ Fun fact📷
 
 <!---
 Sn1per21/Sn1per21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
